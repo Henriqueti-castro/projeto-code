@@ -1,0 +1,68 @@
+[logo] Desenvolvimento de Códigos
+       Conheça a Introdução do mundo Dev em áreas como Front-end e Back-end
+
+[MENU]
+
+HOME
+FRONT-END
+BACK-END
+SOBRE-NÓS
+
+5 Tecnologias mais utilizadas
+
+As cinco tecnologias mais utilizadas no desenvolvimento Front-end são HTML, CSS, JavaScript, TypeScript e SQL (esta última não é uma linguagem de Front-end, mas é muito utilizada por desenvolvedores Front-end em conjunto com APIs e bancos de dados durante o desenvolvimento de aplicações completas). Abaixo está um breve texto sobre cada uma delas, acompanhado de um exemplo simples de "Olá, Mundo!".
+
+1. HTML (HyperText Markup Language)
+
+O HTML é a linguagem de marcação responsável por criar a estrutura de uma página web. Com ele, o desenvolvedor define títulos, parágrafos, imagens, vídeos, formulários, tabelas e outros elementos que serão exibidos pelo navegador. O HTML é a base de qualquer site e trabalha em conjunto com o CSS e o JavaScript.
+
+[imagem-grande]/[imagem-pequena]
+
+2. CSS (Cascading Style Sheets)
+
+O CSS é a linguagem responsável pela aparência das páginas web. Ele permite definir cores, fontes, tamanhos, espaçamentos, animações, posicionamento dos elementos e a adaptação do site para diferentes dispositivos, tornando a interface mais agradável e organizada.
+
+[imagem-grande]/[imagem-pequena]
+
+3. JavaScript
+
+O JavaScript é a principal linguagem de programação do Front-end. Ele adiciona interatividade às páginas, permitindo criar menus dinâmicos, animações, validação de formulários, comunicação com servidores e diversas funcionalidades que tornam os sites mais modernos e responsivos.
+
+[imagem-grande]/[imagem-pequena]
+
+4. TypeScript
+
+O TypeScript é uma linguagem baseada no JavaScript que adiciona tipagem estática e recursos avançados para facilitar o desenvolvimento de aplicações grandes e complexas. Após ser escrito, o código TypeScript é convertido em JavaScript para ser executado pelos navegadores.
+
+[imagem-grande]/[imagem-pequena]
+
+5. SQL (Structured Query Language)
+
+Embora o SQL não seja uma linguagem de Front-end, muitos desenvolvedores Front-end precisam conhecer seus conceitos para trabalhar com sistemas que utilizam bancos de dados por meio de APIs. O SQL é utilizado para consultar, inserir, atualizar e remover informações armazenadas em bancos de dados relacionais.
+
+[imagem-grande]/[imagem-pequena]
+
+se tiver mais interesse acesse o canal do curso em vídeo e faça os curso on-line
+
+[video]
+
+[extra] saiba mais
+
+acompanhe também mais sobre isso em cursos e conteúdos pela internet e redes sociais
+
+1-cursoemvideo
+2-Fundação Bradesco
+3-DIO
+4-Escola Virtual de Governo
+5-Rocketseat
+6-Alura
+7-FIAP
+8-SENAI
+9-SENAC
+10-TargetTrust
+
+espero que tenha gostado se chegou até aqui, o conhecimento sobre esse mundo é bem amplo, mas com esforço e dedicação os resultados são alcançados
+
+escrito por Henrique Castro Lopes, aluno do cursoemvideo
+
+Henrique Castro Lopes
