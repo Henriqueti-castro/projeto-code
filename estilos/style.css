@@ -175,7 +175,7 @@ aside h2{
 
 aside p{
     font-family: var(--font-padrao);
-    color: var(--cor7);
+    color: var(--cor8);
     text-indent: 30px;
     line-height: 30px;
     font-weight: bold;
@@ -199,6 +199,7 @@ aside ul{
 
 aside li{
     font-weight: bold;
+    color: var(--cor8);
 }
 
 aside a{
