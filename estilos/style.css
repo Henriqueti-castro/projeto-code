@@ -159,7 +159,7 @@ aside{
     margin-bottom: 20px;
     padding: 10px;
     padding-bottom: 40px;
-    background-color: var(--cor1);
+    background-color: var(--cor5);
     min-width: 300px;
     font-size: clamp(12px, 2vw, 16px);
 }
@@ -167,8 +167,8 @@ aside{
 aside h2{
     font-family: var(--font-square);
     font-size: clamp(22px, 2vw, 30px);
-    color: var(--cor6);
-    background-color: var(--cor5);
+    color: var(--cor5);
+    background-color: var(--cor1);
     padding: 10px;
     margin: -10px -10px 40px -10px;
 }
@@ -197,8 +197,12 @@ aside ul{
     margin-left: 30px;
 }
 
+aside li{
+    font-weight: bold;
+}
+
 aside a{
-    color: var(--cor7);
+    color: var(--cor8);
     text-decoration: none;
     font-weight: bold;
     font-family: var(--font-padrao);
