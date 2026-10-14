@@ -176,7 +176,12 @@ aside p{
     line-height: 30px;
     font-weight: bold;
     text-align: justify;
-   
+}
+
+aside p > span {
+    color: var(--cor1);
+    font-weight: 900;
+    text-transform: uppercase;
 }
 
 aside .lista{
